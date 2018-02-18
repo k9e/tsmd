@@ -1,0 +1,27 @@
+{
+  "name": "tsmd",
+  "version": "0.1.0",
+  "description": "A simple markdown library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k9e/tsmd.git"
+  },
+  "keywords": [
+    "markdown",
+    "typescript"
+  ],
+  "author": "Khayreddine LAANANI",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/k9e/tsmd/issues"
+  },
+  "homepage": "https://github.com/k9e/tsmd#readme",
+  "dependencies": {
+    "typescript": "^2.7.2"
+  }
+}
